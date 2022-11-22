@@ -1,0 +1,15 @@
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\bin\Debug\net6.0\CandidateDomain.deps.json
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\bin\Debug\net6.0\CandidateDomain.dll
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\bin\Debug\net6.0\CandidateDomain.pdb
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\bin\Debug\net6.0\CandidateEntites.dll
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\bin\Debug\net6.0\CandidateEntites.pdb
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\obj\Debug\net6.0\CandidateDomain.csproj.AssemblyReference.cache
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\obj\Debug\net6.0\CandidateDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\obj\Debug\net6.0\CandidateDomain.AssemblyInfoInputs.cache
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\obj\Debug\net6.0\CandidateDomain.AssemblyInfo.cs
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\obj\Debug\net6.0\CandidateDomain.csproj.CoreCompileInputs.cache
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\obj\Debug\net6.0\CandidateDomain.csproj.CopyComplete
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\obj\Debug\net6.0\CandidateDomain.dll
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\obj\Debug\net6.0\refint\CandidateDomain.dll
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\obj\Debug\net6.0\CandidateDomain.pdb
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateDomain\obj\Debug\net6.0\ref\CandidateDomain.dll

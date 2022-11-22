@@ -1,0 +1,17 @@
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\bin\Debug\net6.0\CandidateInfrastructure.deps.json
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\bin\Debug\net6.0\CandidateInfrastructure.dll
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\bin\Debug\net6.0\CandidateInfrastructure.pdb
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\bin\Debug\net6.0\CandidateDomain.dll
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\bin\Debug\net6.0\CandidateEntites.dll
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\bin\Debug\net6.0\CandidateDomain.pdb
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\bin\Debug\net6.0\CandidateEntites.pdb
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\obj\Debug\net6.0\CandidateInfrastructure.csproj.AssemblyReference.cache
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\obj\Debug\net6.0\CandidateInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\obj\Debug\net6.0\CandidateInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\obj\Debug\net6.0\CandidateInfrastructure.AssemblyInfo.cs
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\obj\Debug\net6.0\CandidateInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\obj\Debug\net6.0\CandidateInfrastructure.csproj.CopyComplete
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\obj\Debug\net6.0\CandidateInfrastructure.dll
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\obj\Debug\net6.0\refint\CandidateInfrastructure.dll
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\obj\Debug\net6.0\CandidateInfrastructure.pdb
+C:\Users\Ma7mo\source\repos\SigmaSoftwareCandidateTestTask\CandidateInfrastructure\obj\Debug\net6.0\ref\CandidateInfrastructure.dll

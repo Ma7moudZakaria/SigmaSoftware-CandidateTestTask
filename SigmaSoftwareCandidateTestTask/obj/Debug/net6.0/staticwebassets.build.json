@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3HQo2YieP4h4YZP+MYN7IMlU2NcoIU2wEtbrMKMoQk4=",
+  "Source": "SigmaSoftwareCandidateTestTask",
+  "BasePath": "_content/SigmaSoftwareCandidateTestTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
